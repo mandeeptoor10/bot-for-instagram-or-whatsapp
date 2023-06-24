@@ -12,7 +12,7 @@ responses = {
     "weather": "The weather is currently sunny and 75 degrees.",
     "i love you": "I don't have feelings, I'm created by Mani Toor.",
     "i'm upset": "Don't feel sad, listen to some songs!",
-    "how are you": "i m good thanmks  for asking, what about you"
+    "how are you": "i m good thanks for asking, what about you"
 }
 
 # Function to generate responses
